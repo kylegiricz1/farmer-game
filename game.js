@@ -2,8 +2,8 @@
 // Farmer Harvest — no libs
 // =========================
 
-import { Crop, Scarecrow } from './farmer-game/crop.js';
-import { Farmer, clamp, aabb, WIDTH, HEIGHT } from './farmer-game/farmer.js';
+import { Crop, Scarecrow } from './crop.js';
+import { Farmer, clamp, aabb, WIDTH, HEIGHT } from './farmer.js';
 
 // ---- Config & helpers ----
 const TILE = 30;           // for a subtle grid
