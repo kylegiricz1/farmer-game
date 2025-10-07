@@ -11,8 +11,7 @@ A simple browser-based farming game built with vanilla JavaScript. Players contr
 
 2. Different Types of Pickups 
    - Added variety to pickups beyond standard crops:
-     - Beets – worth extra points.
-     - Sunflower – restores a small amount of time.
+        -Wheat,Corn, Carot, Beet
    - These add strategic choices for the player.
 
 ---
